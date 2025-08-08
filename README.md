@@ -1,5 +1,5 @@
 # BigBite
-Data repo for Figure 1 of Dowding et al (in review)
+Data repo for Figure 1 of Dowding et al (in prep)
 
 This repo hosts the supplementary material, including glossary, addtional notes on process, and the FAD occurrence (both direct and indirect) of fossilised biotic interactions. Public active links will be provided after submission and/or acceptance.
 
